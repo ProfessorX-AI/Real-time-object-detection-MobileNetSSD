@@ -52,10 +52,11 @@
 ## Let's get to the actual coding
 ##### requirements
 
-`pip install opencv-python`
-`pip install opencv-contrib-python`
-`pip install imutils`
-`pip install numpy`
+```
+pip install opencv-python
+pip install opencv-contrib-python
+pip install imutils
+pip install numpy ```
 
 > clone or download the repository and run the command 
 `python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel`
